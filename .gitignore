@@ -3,7 +3,6 @@ _posts
 .jekyll-cache
 .jekyll-metadata
 vendor
-.gitignore
 Gemfile
 Gemfile.lock
 _config.yml
