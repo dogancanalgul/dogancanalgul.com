@@ -1,5 +1,9 @@
-_site
+_posts
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
 vendor
+.gitignore
+Gemfile
+Gemfile.lock
+_config.yml
