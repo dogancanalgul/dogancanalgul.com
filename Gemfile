@@ -1,7 +1,10 @@
 source "https://rubygems.org"
 
-gem "github-pages", group: jekyll_plugins
+gem "github-pages"
+
+gem "liquid-c"
 gem "jekyll-sitemap"
 gem "jekyll-gist"
 gem 'jekyll-mentions'
 gem 'jekyll-feed'
+
