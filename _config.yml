@@ -8,7 +8,7 @@ logo:                'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
-baseurl:            "/"
+baseurl:            /
 url:                https://dogancanalgul.com
 
 # Jekyll
@@ -31,37 +31,13 @@ disqus_shortname:   dogancanalgul
 
 # Social
 # if you don't have any of social below, comment the line.
-#google:
-  #plus:            #username
-  #analytics:
-  #verify:
-  #ad-client:
-  #ad-slot:
-#bing-verify:
 email:              dogancan.al@gmail.com
 #twitter:            username
-#facebook:           username
 github-url:        dogancanalgul
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:          dogancan-algul
-#xing:              username
 instagram:          dganca
-#lastfm:            username
-#tumblr:            username
-#medium:            '@username'
-#pinterest:         username
-#foursquare:        username
-#steam:              username
-#dribbble:          username
-#youtube:           username
-#youtube-channel:   channel
-#soundcloud:        username
-#weibo:             username
-#flickr:            username
-#codepen:           username
-#keybase:           username
-#xmpp:              username@server.com
-#hackernews:        username
+
 
 # Plugins
 plugins:
