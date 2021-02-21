@@ -5,6 +5,9 @@ tags: [about, dogancanalgul, computerengineer, computerscience]
 date: 2020-01-23
 comments: false
 ---
+
+## For professionals here is the [cv](/assets/img/about/Algul_Dogancan_CV.pdf)
+
 <table> <tr> <td> <img src="/assets/img/about/sil.png" alt="Childhood" style="width:320px;height:320px;"> </td> <td>
  <h1 > Who was I </h1>
 By my 10th birthday, I decided to become a computer engineer. By my 16th birthday, I decided to be in computer graphics. I believe that will be how I will leave a mark on this world.
