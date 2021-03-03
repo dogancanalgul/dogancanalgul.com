@@ -6,7 +6,7 @@ date: 2020-01-23
 comments: false
 ---
 
-## For professionals here is the [cv](/assets/img/about/Algul_Dogancan_CV.pdf)
+# For professionals here is the [RESUME](/assets/img/about/Algul_Dogancan_CV.pdf)
 
 <table> <tr> <td> <img src="/assets/img/about/sil.png" alt="Childhood" style="width:320px;height:320px;"> </td> <td>
  <h1 > Who was I </h1>
