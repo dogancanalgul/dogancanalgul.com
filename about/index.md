@@ -34,6 +34,8 @@ These days in my life, I am searching for an entry point to the game industry. I
 
 - **Web Application as a WebAR Engine**: This was one of my two big university projects. Simply put, I designed a 3D editor with webGL on Unity to make webAR projects on web. The resultant webAR projects are just one html file using the  [a-frame](https://aframe.io/)'s 3D engine and [AR.js](https://ar-js-org.github.io/AR.js-Docs/)'s a-frame support for AR parts. I continue developing it in my spare time.
 
+- **6D Pose Estimation**: A deep learning project. Given an image, I tried to estimate a known object's rotation and position. It was successfull for my criterias. I finished it as my last graduation project.
+
 - **Unity Game Development:** Best way to make a motor is by disassembling another one. I am practicing Unity to;
     - make small games for game development experience in all areas of the game development process such as modeling, level design, scripting.
     - learn how the subsystems of a game engine work.
@@ -43,3 +45,11 @@ These days in my life, I am searching for an entry point to the game industry. I
 - **Website:** I am trying to improve my internet presence. I started with a basic static website on github. For now I am learning the code I am running. In time, I will better tailor it for my taste.
 
 - **Blender:** While using Blender, I am having the same thrill of creating things I have from game engines. I am not very good at it but I have fun. Also, it is a good shortcut to create assets for Unity.
+
+I have so much more that I am doing such as recreating MIPS using Verilog, recreating the Virtual Memory using C++, creating a Java Application for pandemic simulation... But I like to showcase where I am heading towards instead of my repertoire.
+
+## What I am lacking and trying to improve:
+- I am still learning shader languages and I want to be proficient with them more.
+- I don't know how to use OpenGL and DirectX in a release mode. I only tinkered with them and I am trying to find out how a release version differs.
+- C++. I am proficient in it but I am trying to learn how to optimize my code and even try to go into Assembly.
+- Python. Again, I know how to code in python. But I am trying to learn how to code more efficiently and more structurally. One of the ways is, I am trying to learn Cython.
