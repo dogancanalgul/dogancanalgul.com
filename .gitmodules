@@ -1,3 +1,3 @@
-[submodule "Tetris"]
-	path = assets/demos/tetris
-	url = https://github.com/dogancanalgul/Tetris
+[submodule "tetris"]
+	path = tetris
+	url = https://github.com/dogancanalgul/tetris
