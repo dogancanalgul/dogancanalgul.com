@@ -19,7 +19,7 @@ comments: false
 		<td>
 			<h1 > Who was I </h1>
 			I love learning different aspects of Computer Science. Thus, I spent my university years trying out many fields. In my 4 years, I learned the following PLs, programs, and libraries in different capacities: Assembly (x86), C, C++ (17), C# (8.0), Java (15), Common Lisp, Verilog, Python (3.8), JavaScript, CSS, HTML5;
-			UE4, UE5, Unity, Blender, Pygame, libGDX, TensorFlow, .Net, Spring Framework with ThymeLeaf, React, Node.js, p5.js.
+			UE4, UE5, Unity, Blender, Pygame, libGDX, TensorFlow, .Net, Spring Framework with ThymeLeaf, React, Node.js, p5.js.<br>
 			All of that was to help me become a better developer for the gaming industry like a cook travelling around the world for different cuisines or a fighter learning different martial arts to be a better fighter. And I think it worked.
 		</td>
 	</tr>
@@ -33,9 +33,6 @@ comments: false
 		</td>
 	</tr>
 </table>
-
-# Now what
-These days in my life, I am learning UE5 and scratching some creative itches with blender, photoshop and krita.
 
 ## Here is what I am doing these days:
 
